@@ -35,9 +35,9 @@ Employee.change_company("rvl")
 
 
 
-#employee2.display_info()
-#employee2.update_salary(20000)
-#employee2.apply_bonus(15)
+employee2.display_info()
+employee2.update_salary(20000)
+employee2.apply_bonus(15)
 
 #employee3.display_info()
 #employee3.update_salary(20000)
